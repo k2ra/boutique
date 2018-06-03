@@ -1,0 +1,40 @@
+/*
+ * Custom code goes here.
+ * A template should always ship with an empty custom.css
+ */
+ body{
+ 	font-family: 'Montserrat',sans-serif;
+ }
+#wrapper {
+	/*background: #ff9b9b;*/
+}
+#_desktop_logo{
+	width: 100%;
+	padding: 2rem;
+}
+#header .header-nav{
+	max-height: 100%;
+
+}
+#iuser{
+	
+	border: 0.1rem solid;
+	border-radius: 50%;
+	color: #7a7a7a;
+	padding: 1rem;
+}
+#icart{
+	
+	border: 0.1rem solid;
+	border-radius: 50%;
+	color: #7a7a7a;
+	padding: 1rem;
+}
+
+.right-nav{
+	padding: 2rem;
+}
+
+#header .header-nav .blockcart{
+	background:transparent;
+}
