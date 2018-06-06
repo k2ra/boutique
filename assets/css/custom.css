@@ -10,7 +10,7 @@
 }
 #_desktop_logo{
 	width: 100%;
-	padding: 2rem;
+	padding: 0.7rem;
 }
 #header .header-nav{
 	max-height: 100%;
@@ -18,23 +18,37 @@
 }
 #iuser{
 	
-	border: 0.1rem solid;
+	border: 1px solid #ececec;
 	border-radius: 50%;
-	color: #7a7a7a;
+	
 	padding: 1rem;
 }
 #icart{
 	
-	border: 0.1rem solid;
+	border: 1px solid #ececec;
 	border-radius: 50%;
-	color: #7a7a7a;
+	
 	padding: 1rem;
 }
 
 .right-nav{
-	padding: 2rem;
+	padding: 1.5rem;
 }
 
 #header .header-nav .blockcart{
 	background:transparent;
+}
+
+#header .header-top{
+	padding-bottom: 1rem;
+
+}
+#header .header-nav{
+
+}
+#header .header-top .menu{
+	margin-bottom: 0.01rem;
+}
+body#checkout #header .header-nav{
+	padding: 1rem;
 }
